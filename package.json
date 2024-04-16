@@ -1,0 +1,18 @@
+{
+  "name": "czip",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "src/czip.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gmod/bgzf-filehandle": "^1.4.7",
+    "generic-filehandle": "^3.1.2",
+    "node-fetch": "^3.3.2"
+  }
+}
